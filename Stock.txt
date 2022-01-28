@@ -1,0 +1,18 @@
+Cream	40	15/11/2021	106
+Sleeve	15	20/12/2024	90
+Milk	15	20/07/2021	10
+Salep powder	40	15/07/2023	3
+Paper cup	15	20/12/2024	50
+Caramel syrup	75	15/06/2022	6
+Mint syrup	60	10/05/2022	7
+Blueberry syrup	85	25/06/2022	6
+Pumpkin syrup	80	25/07/2022	2
+Vanilla syrup	75	15/08/2022	4
+Coconut syrup	65	15/08/2022	3
+Hazelnut syrup	70	20/06/2022	1
+Hot chocolate powder	55	20/07/2023	11
+Chai tea latte powder	60	15/07/2023	2
+Dark chocolate syrup	70	20/06/2022	3
+White chocolate syrup	75	20/06/2022	9
+Espresso coffee bean	110	12/12/2022	5
+Ice	10	15/09/2021	13

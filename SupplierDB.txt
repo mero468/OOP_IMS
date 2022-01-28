@@ -1,0 +1,11 @@
+Ice	10	15/09/2021	9986
+Chai tea latte powder	60	15/07/2023	9999
+Dark chocolate syrup	70	20/06/2022	9999
+Sleeve	15	20/12/2024	9999
+Milk	15	20/07/2021	10
+White chocolate syrup	75	20/06/2022	9999
+Coconut syrup	65	15/08/2022	9999
+Hazelnut syrup	70	20/06/2022	9999
+Hot chocolate powder	55	20/07/2023	9999
+Cream	40	15/11/2021	9999
+Espresso coffee bean	110	12/12/2022	9999
